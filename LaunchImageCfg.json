@@ -1,0 +1,60 @@
+{"launch_image":
+[{
+"path": "drawable-hdpi", "file_name": "launch-2688-1242", "width":2688, "height": 1242
+}
+,
+{
+"path": "drawable-hdpi", "file_name": "launch-1792-828", "width":1792, "height": 828
+}
+  ,
+{
+"path": "drawable-hdpi", "file_name": "launch-2436-1125", "width":2436, "height": 1125
+}
+  ,
+{
+"path": "drawable-hdpi", "file_name": "launch-2208-1242", "width":2208, "height": 1242
+}
+  ,
+{
+"path": "drawable-hdpi", "file_name": "launch-640-960", "width":640, "height": 960
+}
+  ,
+{
+"path": "drawable-hdpi", "file_name": "launch-640-1136", "width":640, "height": 1136
+}
+  ,
+{
+"path": "drawable-hdpi", "file_name": "launch-1024-768", "width":1024, "height": 768
+}
+  ,
+{
+"path": "drawable-hdpi", "file_name": "launch-2048-1536", "width":2048, "height": 1536
+}
+  ,
+{
+"path": "drawable-hdpi", "file_name": "launch-320-480", "width":320, "height": 480
+}
+  ,
+{
+"path": "drawable-hdpi", "file_name": "launch-640-960-0", "width":640, "height": 960
+}
+  ,
+{
+"path": "drawable-hdpi", "file_name": "launch-640-1136-0", "width":640, "height": 1136
+}
+  ,
+{
+"path": "drawable-hdpi", "file_name": "launch-1024-768-0", "width":1024, "height": 768
+}
+,
+{
+"path": "drawable-hdpi", "file_name": "launch-2048-1536-0", "width":2048, "height": 1536
+}
+
+
+
+]
+
+}
+
+
